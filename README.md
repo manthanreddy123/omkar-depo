@@ -1,2 +1,3 @@
-# omkar-depo
-This is my first repository 
+# omkar-demo
+ Author:
+This is my first github repo.
